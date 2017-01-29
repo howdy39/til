@@ -28,7 +28,9 @@
 
 `go run main.go app.go`のように書く必要がある。
 
-`go run *.go`でもOK。
+`go run *.go`でもOKだがテストファイルも入れてしまう。  
+
+`go build && ./zoo`のようにするとテストは除外して実行できる。
 
 ただし`go build`は全てを舐めるので問題ない。
 
