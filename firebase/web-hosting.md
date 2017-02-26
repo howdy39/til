@@ -37,6 +37,10 @@ DatabaseかHostingが選べるところはHostingを選ぶ
 
 他にもSPAにするとか聞かれるので適当に選択。
 
+## ローカルホストで確認
+```
+firebase serve
+```
 
 ## デプロイ
 ```
