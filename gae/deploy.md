@@ -21,3 +21,6 @@ goapp deploy [project_directory]
 ```
 ~/.appcfg_oauth2_tokens
 ```
+
+# Browser access
+http://gae-sample-160213.appspot.com/hello
