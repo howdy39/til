@@ -7,8 +7,6 @@ The project has already been created.
 
 # Setting project for App Engine 
 ![deploy-01](img/deploy-01.png)
-[[img/deploy-01.png = 250x]]
-
 ![deploy-02](img/deploy-02.png)
 ![deploy-03](img/deploy-03.png)
 
