@@ -17,3 +17,7 @@ https://cloud.google.com/appengine/docs/about-the-standard-environment
 - PHP
 - Python
 - Go
+
+# Pricing
+https://cloud.google.com/appengine/pricing?hl=en
+
