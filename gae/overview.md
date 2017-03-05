@@ -18,6 +18,13 @@ https://cloud.google.com/appengine/docs/about-the-standard-environment
 - Python
 - Go
 
+# Location
+https://cloud.google.com/appengine/docs/locations
+- us-central
+- us-east1
+- europe-west
+- asia-northeast1
+
 # Pricing
 https://cloud.google.com/appengine/pricing?hl=en
 
