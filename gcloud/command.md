@@ -1,5 +1,24 @@
 # アプリケーションのデプロイ
-`gcloud app deploy app.yaml`
+```
+gcloud app deploy [DEPLOYMENTS]
+```
+
+```
+gcloud app deploy app.yaml
+```
+
+https://cloud.google.com/appengine/docs/standard/go/tools/uploadinganapp#deploying_multiple_service_applications
+
+## 複数サービスある場合
+```
+gcloud app deploy main/app.yaml service1/app.yaml service2/app.yaml
+```
+
+## デプロイ時にトラフィックを割り当てない
+```
+--no-promote
+```
+
 
 # cronのデプロイ
 `gcloud app deploy cron.yaml`
